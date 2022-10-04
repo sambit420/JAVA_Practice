@@ -1,4 +1,4 @@
-// To get the name using the command line.
+  // To get the name using the command line.
 package DAY1assignmentProblem;
 
 public class CommandLineExample {

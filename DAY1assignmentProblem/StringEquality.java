@@ -7,8 +7,9 @@ public class StringEquality {
 
 	public static void main(String[] args) {
 	
-		 String s1="SACHIN";
-		 String s2="SACHIN";
+		 String s1="SAMBIT";
+				 String s2="SA";
+				
 	 
 	        if (s1.equals(s2))
 	            System.out.print("Equal Strings");
